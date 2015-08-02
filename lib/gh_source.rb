@@ -2,7 +2,7 @@ module GhSource
 	# Provide authentication credentials
 	Octokit.configure do |c|
 	  c.login = 'scapewang'
-	  c.password = 'w3232004'
+	  c.password = ''
 	end
 
 	class << self
