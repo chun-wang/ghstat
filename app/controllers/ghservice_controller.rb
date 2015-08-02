@@ -4,8 +4,7 @@ class GhserviceController < ApplicationController
 
 		user_list = GhserviceHelper::users_in_orgs [org]
 
-		orgs = Organization.all()
-		puts "organizations:"+orgs.first.name
+		GhSource::fetch
 
 		respond_to do |format|
 			format.json { render :json => user_list.to_json }
