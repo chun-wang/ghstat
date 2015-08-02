@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sha: MyString
+  filename: MyString
+  additions: 1
+  deletions: 1
+  changes: 1
+  status: MyString
+
+two:
+  sha: MyString
+  filename: MyString
+  additions: 1
+  deletions: 1
+  changes: 1
+  status: MyString

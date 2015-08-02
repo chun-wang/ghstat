@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  request_id: 1
+  request_number: 1
+  title: MyString
+  content: MyText
+  url: MyString
+  repo: MyString
+  state: MyString
+  status: MyString
+  creator: MyString
+  create_date: 2015-08-02 16:17:38
+  update_date: 2015-08-02 16:17:38
+  closed_date: 2015-08-02 16:17:38
+  merge_date: 2015-08-02 16:17:38
+  merged_by: 2015-08-02 16:17:38
+  closed_by: 2015-08-02 16:17:38
+
+two:
+  request_id: 1
+  request_number: 1
+  title: MyString
+  content: MyText
+  url: MyString
+  repo: MyString
+  state: MyString
+  status: MyString
+  creator: MyString
+  create_date: 2015-08-02 16:17:38
+  update_date: 2015-08-02 16:17:38
+  closed_date: 2015-08-02 16:17:38
+  merge_date: 2015-08-02 16:17:38
+  merged_by: 2015-08-02 16:17:38
+  closed_by: 2015-08-02 16:17:38
